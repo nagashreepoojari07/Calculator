@@ -8,6 +8,9 @@
 import Foundation
 
 public class Calculate {
+    public init(){
+        print("initialized")
+    }
     public func add(a:Double,b:Double)->Double{
         return a+b
     }
