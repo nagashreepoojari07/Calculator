@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
                   'This library includes different methods to perform mathematical operations'  \
 
     
-  s.homepage         = "https://github.com/nagashreepoojari07/Calculator"
+  spec.homepage         = "https://github.com/nagashreepoojari07/Calculator"
  
   spec.license      = "MIT"
  
@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, '10.0'
 
-  s.requires_arc = true
+  spec.requires_arc = true
   spec.source       = { :git => "https://github.com/nagashreepoojari07/Calculator.git", :tag => spec.version.to_s}
   spec.source_files  = "Calculator/*"
 
