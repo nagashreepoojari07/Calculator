@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
                   'This library includes different methods to perform mathematical operations'  \
 
     
-  spec.homepage         = "https://github.com/nagashreepoojari07/Calculator"
+  # spec.homepage         = "https://github.com/nagashreepoojari07/Calculator"
  
   spec.license      = "MIT"
  
